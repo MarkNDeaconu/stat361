@@ -91,3 +91,6 @@ abline(a = 0, b = 1, col = "darkgreen", lwd = 2)
 # 3
 # a
 
+dat = iris
+
+print(head(dat))
